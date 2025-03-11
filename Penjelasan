@@ -1,0 +1,9 @@
+Penjelasan Program:
+1.Node Class: Mewakili setiap elemen dalam linked list, yang menyimpan informasi tentang lagu dan pointer ke node berikutnya.
+2.Playlist Class: Mengelola linked list dari lagu-lagu.
+                  1.add_song: Menambahkan lagu baru ke akhir playlist.
+                  2.remove_song: Menghapus lagu dari playlist berdasarkan nama lagu.
+		  3.play_song: Memutar lagu berdasarkan nama lagu.
+                  4.add_to_queue: Menambahkan lagu ke antrian putar (dalam hal ini, sama dengan menambah ke playlist).
+                  5.display_playlist: Menampilkan semua lagu dalam playlist.
+Contoh Penggunaan: Menunjukkan bagaimana cara menggunakan kelas Playlist untuk menambahkan, menghapus, dan memutar lagu.
